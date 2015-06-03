@@ -1,0 +1,6 @@
+bind -f common q quit
+# colorscheme cyan
+colorscheme cyan
+shuffle
+set repeat=true
+set status_display_program=/home/bibaijin/.config/cmus/last-cmus.py
